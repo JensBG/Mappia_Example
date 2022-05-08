@@ -1,0 +1,10 @@
+X,Y,Postadress,By,Kategori,Navn,HTTP,result_num,osm_id,display_na,category,type,latlong,icon_url
+12.554868,55.69053,Nørrebrogade 62A,København,Pizza,Pizzeria L'Aquila,http://www.laquila.dk/,"0","340535904","62A, Nørrebrogade, Nørrebro, København, 2200, Danmark",place,house,"55.69053,12.554868",./0.png
+12.560477,55.688107,Nørrebrogade 18F,København,Pizza,Non Solo Pizza,https://www.nonsolo.dk/,"0","729415955","18F, Nørrebrogade, Nørrebro, København, 2200, Danmark",place,house,"55.688107,12.560477",./0.png
+12.5431,55.6983,Nørrebrogade 200,København,Pizza,Casa Mia,https://www.dagensmenu.dk/takeaway/casa-mia-pizza-k%C3%B8benhavn-n?ad-id=3332,"0","340536020","200, Nørrebrogade, Dagmargade Mimersgade Jagtvej Bragesgade, Nørrebro, København, 2200, Danmark",place,house,"55.6983,12.5431",./0.png
+12.544507,55.697369,Nørrebrogade 186,København,Kebab,Kösem,http://www.kosem.dk/,"0","340536008","186, Nørrebrogade, Nørrebro, København, 2200, Danmark",place,house,"55.697369,12.544507",./1.png
+12.546801,55.695844,Nørrebrogade 162,København,Kebab,Kebabistan,https://www.dagensmenu.dk/pizzeria/kebabistan-halal-shawarma-k%C3%B8benhavn-n?ad-id=1702,"0","340535981","162, Nørrebrogade, Nørrebro, København, 2200, Danmark",place,house,"55.695844,12.546801",./1.png
+12.542946,55.698077,Nørrebrogade 205,København,Kebab,Konak Kebab,http://wantithalal.com/pages/item/konak-kebab/,"0","340536029","205, Nørrebrogade, Dagmargade Mimersgade Jagtvej Bragesgade, Nørrebro, København, 2200, Danmark",place,house,"55.698077,12.542946",./1.png
+12.551078,55.69305,Nørrebrogade 102,København,Burger,Burgerklubben,http://www.burgerklubben.com/,"0","340535945","102, Nørrebrogade, Nørrebro, København, 2200, Danmark",place,house,"55.69305,12.551078",./2.png
+12.562081,55.687207,Nørrebrogade 1,København,Burger,Sliders,https://sliders.dk/,"0","340535795","1, Nørrebrogade, Nørrebro, København, 2200, Danmark",place,house,"55.687207,12.562081",./2.png
+12.5501,55.693706,Nørrebrogade 114,København,Burger,Jagger,https://jaggerfastfood.com/,"0","340535956","114, Nørrebrogade, Nørrebro, København, 2200, Danmark",place,house,"55.693706,12.5501",./2.png
